@@ -11,5 +11,6 @@ public class App {
         System.out.println( "Hello Git!3" );
         System.out.println( "Hello Git!4" );
         System.out.println( "master" );
+        System.out.println( "hot-fix" );
     }
 }
